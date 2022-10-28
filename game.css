@@ -28,13 +28,13 @@
 }
 
 .location {
-    color: green;
+    color: #00FF00;
 }
 
 #hits {
-    color: red;
+    color: #FF0000;
 }
 
 #duration {
-    color: blue;
+    color: #0000FF;
 }
